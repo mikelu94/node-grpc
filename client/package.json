@@ -1,0 +1,11 @@
+{
+  "name": "grpc-client",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.7",
+    "@grpc/proto-loader": "^0.6.9",
+    "yargs": "^17.3.1"
+  }
+}
